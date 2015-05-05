@@ -2,6 +2,10 @@
 
 #### Usage
 
+You can use it here: http://pablomatiasgomez.github.io/dv-patentes/index.html
+
+Or use it this way:
+
 Just paste the contents in dv-patente.js into any javscript console in the browser and run this:
 
 ```javascript
