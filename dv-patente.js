@@ -34,7 +34,7 @@
 
 	var getDV = function(patente) {
 		var reduceNumber = function(n) {
-			while (n.toString().length > 1){
+			while (!isNaN(n) && n.toString().length > 1){
 				n = n.toString().split("").reduce(function(a, b) { return parseInt(a) + parseInt(b); });
 			}
 			return n;
