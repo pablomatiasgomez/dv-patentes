@@ -19,7 +19,7 @@ FAY097
 29
 ```
 
-2# The odd way is to paste the contents of dv-patente.js into any javscript console and run it like this:
+3# The odd way is to paste the contents of dv-patente.js into any javscript console and run it like this:
 
 ```javascript
 getDV("FAY097");
